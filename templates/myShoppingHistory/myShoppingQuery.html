@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+{% block content %}
+
+    <div class="row">
+        <h1 class="col-md-12 text-center" text-align="center">myShoppingHistory</h1>
+        <h2 class="col-md-12 text-center" text-align="center">Data query</h2>
+    </div>
+
+
+    <div class="container center-block" style="width: 35%">
+        <table class="table table-condensed">
+            <thead>
+            <tr>
+                <th>Time stamp</th>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Quantity</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for item in items %}
+                <tr>
+                    <td>{{ item.timeStamp }}</td>
+                    <td>{{ item.title }}</td>
+                    <td>{{ item.description }}</td>
+                    <td>{{ item.quantity }}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+{%  endblock %}
