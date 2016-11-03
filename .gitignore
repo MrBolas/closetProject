@@ -48,3 +48,5 @@ Temporary Items
 
 closetProject/wsgi.py
 closetProject/setting.py
+closetProject/settings.py
+closetProject/wsgi.py
