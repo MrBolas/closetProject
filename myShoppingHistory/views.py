@@ -6,9 +6,6 @@ from myShoppingHistory.models import Item
 
 # Create your views here.
 
-def defaultBaseView(request):
-    return render(request, 'base.html')
-
 def myShoppingDbEntry(request):
     #print("hello!")
     if request.method == 'POST':

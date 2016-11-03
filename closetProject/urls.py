@@ -18,9 +18,10 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 from myShoppingHistory import views
+from . import views
 
 urlpatterns = [
-    url(r'^$', include('myShoppingHistory.urls')),
+    url(r'^$', views.defaultBaseView),
     url(r'^myShoppingHistory/', include('myShoppingHistory.urls')),
     #url(r'^myShopping/query', include('myShoppingHistory.urls', namespace='myShoppingHistory')),
     url(r'^admin/', admin.site.urls),
