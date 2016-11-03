@@ -50,3 +50,4 @@ closetProject/wsgi.py
 closetProject/setting.py
 closetProject/settings.py
 .idea/workspace.xml
+closetProject/__pycache__

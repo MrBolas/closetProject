@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca1e8074-d1b3-42a5-826e-b81913880c9d" name="Default" comment="- views organization">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/closetProject.iml" afterPath="$PROJECT_DIR$/.idea/closetProject.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/closetProject/__init__.py" afterPath="$PROJECT_DIR$/closetProject/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/closetProject/urls.py" afterPath="$PROJECT_DIR$/closetProject/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/closetProject/views.py" afterPath="$PROJECT_DIR$/closetProject/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/__init__.py" afterPath="$PROJECT_DIR$/myShoppingHistory/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/admin.py" afterPath="$PROJECT_DIR$/myShoppingHistory/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/apps.py" afterPath="$PROJECT_DIR$/myShoppingHistory/apps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/myShoppingHistory/migrations/0001_initial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/migrations/0002_item_timestamp.py" afterPath="$PROJECT_DIR$/myShoppingHistory/migrations/0002_item_timestamp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/migrations/__init__.py" afterPath="$PROJECT_DIR$/myShoppingHistory/migrations/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/models.py" afterPath="$PROJECT_DIR$/myShoppingHistory/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/tests.py" afterPath="$PROJECT_DIR$/myShoppingHistory/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/urls.py" afterPath="$PROJECT_DIR$/myShoppingHistory/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myShoppingHistory/views.py" afterPath="$PROJECT_DIR$/myShoppingHistory/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/npm.js" afterPath="$PROJECT_DIR$/static/js/npm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/myShoppingHistory/myShoppingIndex.html" afterPath="$PROJECT_DIR$/templates/myShoppingHistory/myShoppingIndex.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/myShoppingHistory/myShoppingQuery.html" afterPath="$PROJECT_DIR$/templates/myShoppingHistory/myShoppingQuery.html" />
     </list>
     <ignored path="closetProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myShoppingHistory/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="242">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
                 <element signature="e#181#727#0" expanded="false" />
@@ -130,6 +91,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -646,7 +617,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18635875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1033,14 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/closetProject/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1064,14 +1027,6 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/closetProject/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1101,13 +1056,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myShoppingHistory/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="242">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
             <element signature="e#181#727#0" expanded="false" />
             <element signature="e#767#895#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closetProject/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
