@@ -51,3 +51,4 @@ closetProject/setting.py
 closetProject/settings.py
 .idea/workspace.xml
 closetProject/__pycache__
+closetProject/myShoppingHistory/__pycache__
