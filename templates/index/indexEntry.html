@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+
+{% block content %}
+
+    <div class="row">
+        <h1 class="col-md-12 text-center" text-align="center">Change Logs</h1>
+        <h2 class="col-md-12 text-center" text-align="center">Entry</h2>
+    </div>
+
+    <div class="container row center-block" style="width: 35%" >
+        <form>
+            <div>
+                <div class="input-group">
+                    <span class="input-group-addon" id="basic-addon3" style="align-content: center">Title</span>
+                    <input type="text" class="form-control" id="basic-url1" aria-describedby="basic-addon3" name="Title">
+
+                </div>
+
+                <div class="input-group">
+                    <span class="input-group-addon" id="basic-addon3" style="align-content: center">Description</span>
+                    <input type="text" class="form-control" id="basic-url2" aria-describedby="basic-addon3" name="Description">
+                </div>
+            </div>
+
+            <div class="alert alert-success alert-dismissible" role="alert" id="gAlert" style="display: none" >
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                New Database entry added.
+            </div>
+
+            <div class="row text-center">
+                <input onclick="$('.alert').show()" id="submitButton" type="submit" formmethod="post" value="Submit" class="btn btn-default navbar-btn" > {% csrf_token %} </input>
+            </div>
+
+        </form>
+    </div>
+
+{% endblock %}

@@ -54,3 +54,4 @@ closetProject/__pycache__
 closetProject/myShoppingHistory/__pycache__
 *.pyc
 *.pyo
+db.sqlite3

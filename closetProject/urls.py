@@ -22,6 +22,8 @@ from . import views
 
 urlpatterns = [
     url(r'^$', views.defaultBaseView),
+    #url(r'^index/', views.defaultBaseView),
+    url(r'^indexEntry/', views.defaultBaseLogEntry),
     url(r'^myShoppingHistory/', include('myShoppingHistory.urls')),
     #url(r'^myShopping/query', include('myShoppingHistory.urls', namespace='myShoppingHistory')),
     url(r'^admin/', admin.site.urls),

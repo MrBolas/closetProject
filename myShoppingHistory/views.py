@@ -21,10 +21,7 @@ def myShoppingDbEntry(request):
     })
 
 def myShoppingDbQuery(request):
-
-
     items = Item.objects.all()
-
     return render(request, 'myShoppingHistory/myShoppingQuery.html',{
         'items': items,
     })

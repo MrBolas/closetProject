@@ -25,3 +25,9 @@ class Item(models.Model):
         print(self.title)
         print(self.description)
         print(self.quantity)
+
+
+class changeLogs(models.Model):
+    t_stamp = models.DateTimeField(auto_now_add=True)
+    title = models.CharField(max_length=200)
+    description = models.TextField()
